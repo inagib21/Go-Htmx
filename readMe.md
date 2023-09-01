@@ -42,4 +42,4 @@ This repository contains a simple demonstration of using HTMX and Go to create a
 
 ## Acknowledgments
 
-Thank you to : bugbytes-io[https://github.com/bugbytes-io].This demo was created to showcase the integration of HTMX and Go for building dynamic web applications. Feel free to explore, modify, and expand upon this codebase for your own projects. Youtube[https://www.youtube.com/watch?v=F9H6vYelYyU]
+Thank you to : (bugbytes-io)[https://github.com/bugbytes-io].This demo was created to showcase the integration of HTMX and Go for building dynamic web applications. Feel free to explore, modify, and expand upon this codebase for your own projects. (Youtube)[https://www.youtube.com/watch?v=F9H6vYelYyU]
